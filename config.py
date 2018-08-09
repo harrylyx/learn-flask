@@ -12,3 +12,4 @@ class Config(object):
     MAIL_PASSWORD = "your-password"
     ADMINS = ['your-email@163.com']
     POSTS_PER_PAGE = 25
+
